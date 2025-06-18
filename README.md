@@ -1,2 +1,2 @@
 # Lotion
-Lotion is a notetaking app instipred by notion witten in laravel.
+Lotion is a notetaking app instipred by Notion witten in Laravel.
